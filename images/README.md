@@ -1,3 +1,3 @@
 # :zap: Image Directory
 
-This is the root directory of where images will be place, base off of the subreddit provided by the user. 
+This is the root directory where images will be placed, based off of the subreddit that is provided by the user. 
