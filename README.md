@@ -2,7 +2,8 @@
 
 This script will allow one to scrape images from a Reddit subreddit
 using the The Python Reddit API wrapper. It is a work in progress,
-and will more options beyond pulling images as I continue development work. 
+and more options will be available beyond pulling images, as I continue 
+development on this project.
 
 ## :bulb: Instructions
 
