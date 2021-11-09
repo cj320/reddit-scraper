@@ -29,6 +29,6 @@ To successfully use this script to pull images you will need to do the following
 
 ## :bulb: Running the script:
 
-The script can be run using by running the main.py script.
+The program is run via the main.py script.
 It will ask the user to enter the name of the subbreddit, validate that it exists, then pull the top 10 images from *hot* category if 
 it contains a valid image file name.
