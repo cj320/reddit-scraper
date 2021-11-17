@@ -1,2 +1,3 @@
+images/*
 .secrets.json
 reddit_pkg/__pycache__/
